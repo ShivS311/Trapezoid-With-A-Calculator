@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(67, 91, 196);
+}
+
+div.main {
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    margin: auto;
+    padding: 30px 100px;
+    width: 600px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button#calculate {
+    font-size: 18px;
+    color: white;
+    background-color: maroon;
+}
+
+img {
+    object-fit: contain;
+}
+
+p.img {border-style: groove;
+width:min-content;
+color:gray;}
+
+p.Italic{font-style: italic;}
